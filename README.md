@@ -1,7 +1,7 @@
 <h1>C++</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project involved using C++ on an Ubuntu environment to develop a user-friendly cost analysis program. The program was designed to calculate and analyze various monthly expenses, including gas, electricity, water, car costs, and entertainment, based on user inputs. It consolidated these costs to compute the total monthly expenditure and deducted them from the user’s take-home pay after factoring in taxes and other deductions like retirement contributions. The project demonstrates skills in cost analysis, financial planning, and proficiency in C++ programming, providing useful insights for budgeting and expense management.
 <br />
 
 
@@ -12,14 +12,14 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
-- <b>Ubuntu</b> (21H2)
+- <b>Windows 11</b>
+- <b>Ubuntu</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Input: <br/>
+<img src="https://imgur.com/a/diR8fzc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
