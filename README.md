@@ -19,7 +19,7 @@ This project involved using C++ on an Ubuntu environment to develop a user-frien
 
 <p align="center">
 Input: <br/>
-<img src="https://imgur.com/a/diR8fzc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/diR8fzc" height="80%" width="80%" alt="Disk Sanitization Step"/>
 <br />
 <br />
 Select the disk:  <br/>
