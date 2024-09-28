@@ -18,7 +18,7 @@ This project involved using C++ on an Ubuntu environment to develop a user-frien
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Input: <br/>
+Input (Steps/explanations are indicated in blue): <br/>
 <img src="https://imgur.com/lGW9USf.png" height="80%" width="80%"/>
 <br />
 <br />
