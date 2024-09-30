@@ -1,4 +1,4 @@
-<h1>C++</h1>
+<h1>Practicing C++</h1>
 
 <h2>Description</h2>
 This project involved using C++ on an Ubuntu environment to develop a user-friendly cost analysis program. The program was designed to calculate and analyze various monthly expenses, including gas, electricity, water, car costs, and entertainment, based on user inputs. It consolidated these costs to compute the total monthly expenditure and deducted them from the user’s take-home pay after factoring in taxes and other deductions like retirement contributions. The project demonstrates skills in cost analysis, financial planning, and proficiency in C++ programming, providing useful insights for budgeting and expense management.
