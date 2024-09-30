@@ -7,7 +7,6 @@ This project involved using C++ on an Ubuntu environment to develop a user-frien
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
 - <b>C++</b>
 
 <h2>Environments Used </h2>
