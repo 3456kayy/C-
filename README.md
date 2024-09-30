@@ -13,7 +13,7 @@ This project involved using C++ on an Ubuntu environment to develop a user-frien
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b>
-- <b>Ubuntu</b>
+- <b>Ubuntu Linux</b>
 
 <h2>Program walk-through:</h2>
 
